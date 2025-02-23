@@ -4,7 +4,7 @@ import ProfileCard from './ProfileCard';
 function App() {
     const user = {
         name: 'DAVID PELUOLA',
-        imageUrl: 'src/assets/david.jpg',
+        imageUrl: '/david.jpg',
         bio: 'A passionate developer with a love for coding and problem-solving.',
         skills: ['JavaScript', 'React', 'HTML', 'CSS'],
     };
